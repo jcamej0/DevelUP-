@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="69.166664"
+   height="69.166664"
+   viewBox="0 0 248.99999 248.99999"
+   enable-background="new 0 0 360 360"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="time.svg"><metadata
+   id="metadata2997"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2995" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="724"
+   id="namedview2993"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="2.36"
+   inkscape:cx="34.583333"
+   inkscape:cy="34.583333"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g2987"
+   transform="translate(-55.5,-55.5)"
+   style="fill:#8c8383;fill-opacity:1">
+	<path
+   d="m 180.001,69.5 c 61.026,0 110.499,49.473 110.499,110.5 0,61.027 -49.473,110.5 -110.499,110.5 -61.028,0 -110.5,-49.473 -110.5,-110.5 0,-61.027 49.472,-110.5 110.5,-110.5 m 0,-14 c -33.255,0 -64.52,12.95 -88.035,36.465 C 68.451,115.48 55.5,146.745 55.5,180 c 0,33.255 12.95,64.52 36.465,88.035 23.515,23.515 54.78,36.465 88.035,36.465 33.255,0 64.52,-12.95 88.034,-36.465 C 291.55,244.52 304.5,213.255 304.5,180 304.5,146.745 291.55,115.48 268.035,91.965 244.52,68.45 213.256,55.5 180.001,55.5 l 0,0 z"
+   id="path2989"
+   inkscape:connector-curvature="0"
+   style="fill:#8c8383;fill-opacity:1" />
+</g>
+<polyline
+   points="180.001,92.883 180.001,180   218.793,218.791 "
+   id="polyline2991"
+   style="fill:none;stroke:#8c8383;stroke-width:12;stroke-linecap:round;fill-opacity:1;stroke-opacity:1"
+   transform="translate(-55.5,-55.5)" />
+</svg>

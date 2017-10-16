@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gandalfHat.svg"><metadata
+   id="metadata140"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs138" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="724"
+   id="namedview136"
+   showgrid="false"
+   inkscape:zoom="2.36"
+   inkscape:cx="44.126533"
+   inkscape:cy="55.654743"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Your_Icon" />
+
+<g
+   id="Your_Icon">
+	
+	
+	
+	<path
+   fill="none"
+   d="M-191.28,61.363c0.13-8.135-0.899-16.607-3.288-20.975c-0.338-0.666-0.701-1.207-1.088-1.594   c-0.02-0.019-0.041-0.038-0.061-0.056c-0.06-0.065-0.118-0.132-0.179-0.192c-3.649-3.649-16.896-4.893-30.104-4.619   c-13.209-0.274-26.455,0.97-30.104,4.619c-0.061,0.061-0.119,0.127-0.179,0.192c-0.02,0.019-0.041,0.038-0.061,0.056   c-0.387,0.388-0.75,0.929-1.088,1.594c-2.389,4.368-3.418,12.84-3.289,20.977c-0.139,9.245,0.937,18.316,3.383,20.961   c6.242,6.754,18.771,9.764,31.338,9.268c12.565,0.496,25.096-2.514,31.338-9.268c0.426-0.459,1.156-1.949,1.156-1.949   c0.24-0.572,1.64-7.008,1.727-7.748v-0.002l0,0C-191.384,69.229-191.221,65.313-191.28,61.363z"
+   id="path120" />
+	
+	
+	
+	
+	
+	
+	<path
+   d="M 82.062,86.428 C 77.605,70.535 58.804,0.312 45.933,0.005 37.205,-0.203 32.811,5.837 28.674,9.153 c -5.557,4.454 -10.694,4.17 -10.472,6.991 0,0 4.945,4.793 13.057,2.304 0,0 2.577,-3.598 2.671,-3.635 0,0 -2.161,5.696 -1.937,6.148 0.237,0.479 0.271,0.818 0.954,0.944 l 2.433,-3.134 c -5.747284,22.359082 -11.54298,44.704722 -17.476,67.015 -3.968,0.608 -1.878,4.828 -1.878,4.828 0,0 2.664,8.942 35.182,9.375 32.518,0.432 33.31,-10.554 33.31,-10.554 0,0 0.28,-2.637 -2.456,-3.007 z"
+   id="path134"
+   inkscape:connector-curvature="0"
+   style="fill:#000000"
+   sodipodi:nodetypes="cccccccccccccc" />
+</g>
+</svg>

@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/opt/lampp/htdocs/site/develup",
+			"folder_exclude_patterns": ["node_modules",".sass-cache"],
+    		"file_exclude_patterns": ["_*.css",".sublime-grunt.cache","develup.sublime-project","develup.sublime-workspace"]
+		}
+	]
+}

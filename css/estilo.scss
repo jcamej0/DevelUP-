@@ -1,0 +1,30 @@
+
+//@import "font.scss";
+
+@import "normalize.scss";
+
+@import "variable";
+
+body{
+	font-family: $primaryFont !important;
+}
+
+h1{
+	font-family: $headerFont;
+	font-weight: normal;
+}
+
+//General
+
+	body > *{
+		padding: 0 10%;
+	}
+	
+	.itsAllRelative > *,.slideShow > article > figure > *,.slideShow > article > *{
+		position:relative;
+	}
+
+//End General
+
+@import "header.scss";
+@import "animation.scss";

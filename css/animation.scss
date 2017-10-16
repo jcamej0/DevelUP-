@@ -1,0 +1,45 @@
+body > section{
+	padding: 0;
+	display: block;
+	overflow: hidden;
+
+	h1{
+		font-size: 3.5em;
+		padding: 0.25em 1em;
+		color: white;
+		width: 100%;
+		text-align: center;
+		position: absolute;
+	}
+
+	p{
+		color: white;
+		font-size: 2em;
+		padding: 1em 2em;
+		margin: 0;
+		text-align: justify;
+	}
+
+}
+
+.world{
+	$color:#75c6bd;
+	background-color:$color;
+	p{
+		background-color: darken($color, 15%);
+	}
+}
+
+.lab{
+	$color: #EC6F6F;
+	background-color: darken($color, 10%);
+	p{
+		background-color:darken($color, 5%);
+	}
+}
+
+svg{
+	width: 100%;
+	margin-bottom: -5px;
+	@include shadow(0 4px 20px -3px black);
+}

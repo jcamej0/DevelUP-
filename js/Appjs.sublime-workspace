@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ml",
+				"ml	margin-left"
+			],
+			[
+				"label",
+				"label	<label> with <input>"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"la",
+				"labApp.js"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"valid",
+				"validCustom"
+			],
+			[
+				"get",
+				"getTemplate"
+			],
+			[
+				"fun",
+				"func	func"
+			],
+			[
+				"attr",
+				"setAttribute"
+			],
+			[
+				"if",
+				"if	@if"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"appe",
+				"append	.append"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"for",
+				"forEach	forEach"
+			],
+			[
+				"ta",
+				"TABLE"
+			],
+			[
+				"crea",
+				"CREATE"
+			],
+			[
+				"b",
+				"bs	box-shadow"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"tr",
+				"trigger	trigger"
+			],
+			[
+				"w",
+				"width	.width"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"ei",
+				"eiffel-op.svg"
+			],
+			[
+				"liv",
+				"liberty-op.svg"
+			],
+			[
+				"ba",
+				"balon-op.svg"
+			],
+			[
+				"Co",
+				"Corcovado-op.svg"
+			],
+			[
+				"fu",
+				"Fuji-op.svg"
+			],
+			[
+				"t",
+				"tienda-op.svg"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"tie",
+				"tienda-op.svg"
+			],
+			[
+				"to",
+				"Torii-op.svg"
+			],
+			[
+				"fi",
+				"Fuji-op.svg"
+			],
+			[
+				"co",
+				"Corcovado-op.svg"
+			],
+			[
+				"ti",
+				"tienda-op.svg"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"ob",
+				"Object"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"es",
+				"estilo.scss"
+			],
+			[
+				"he",
+				"header.css"
+			],
+			[
+				"incl",
+				"include	@include"
+			],
+			[
+				"j",
+				"jq	jq"
+			],
+			[
+				"jq",
+				"jQuery.get	jQuery.get"
+			],
+			[
+				"th",
+				"this	jq"
+			],
+			[
+				"thi",
+				"this	$(this)"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"sl",
+				"slideShow.scss"
+			],
+			[
+				"pre",
+				"prueba.scss"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"c",
+				"ctrl"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"remove",
+				"removeData	.removeData()"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"tra",
+				"border-top-left-radius"
+			],
+			[
+				"the_",
+				"the_title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/opt/lampp/htdocs/Appjs/index.php",
+			"settings":
+			{
+				"buffer_size": 1654,
+				"line_ending": "Unix",
+				"name": "i"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/Appjs/js/labApp.js",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/Appjs/css/estilo.scss",
+			"settings":
+			{
+				"buffer_size": 1845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/Appjs/css/_variable.scss",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: mq",
+				"Snippet: mq"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"Snippet: php",
+				"Snippet: <?php … ?>"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gustavo/tutorial/sample.html",
+		"/home/gustavo/tutorial/README.text",
+		"/home/gustavo/myApp/package.json",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/np.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/data-icon.sublime-snippet",
+		"/opt/lampp/htdocs/Appjs/js/functions.js",
+		"/opt/lampp/htdocs/Appjs/css/normalize.scss",
+		"/opt/lampp/htdocs/Appjs/Gruntfile.js",
+		"/opt/lampp/htdocs/Appjs/css/build/estilo.css",
+		"/opt/lampp/htdocs/Appjs/css/_variable.scss",
+		"/opt/lampp/htdocs/site/develup/img/lab-op.svg",
+		"/opt/lampp/htdocs/site/develup/img/lab.svg",
+		"/opt/lampp/htdocs/site/develup/js/functions.js",
+		"/opt/lampp/htdocs/site/develup/css/estilo.scss",
+		"/opt/lampp/htdocs/site/develup/css/normalize.scss",
+		"/opt/lampp/htdocs/site/develup/css/build/estilo.css",
+		"/opt/lampp/htdocs/site/develup/Gruntfile.js",
+		"/opt/lampp/htdocs/site/develup/css/font.scss",
+		"/opt/lampp/htdocs/site/develup/js/libs/TimelineMax.min.js",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/forEach.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/package.json",
+		"/opt/lampp/htdocs/site/develup/develup.sublime-project",
+		"/opt/lampp/htdocs/site/develup/css/header.scss",
+		"/opt/lampp/htdocs/site/develup/index.php",
+		"/opt/lampp/htdocs/site/develup/css/animation.scss",
+		"/opt/lampp/htdocs/site/develup/css/_variable.scss",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/site/develup/img/round-flask.svg",
+		"/opt/lampp/htdocs/site/v 0.1/index.php",
+		"/opt/lampp/htdocs/site/develup/img/lugar-op.svg",
+		"/home/gustavo/workspace/paulofreire/paulofreire.sql",
+		"/opt/lampp/htdocs/site/develup/css/index.scss",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/mq.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/keyframe.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/img/lugar.svg",
+		"/opt/lampp/htdocs/site/develup/img/opera-opt.svg",
+		"/opt/lampp/htdocs/site/develup/img/eiffel-op.svg",
+		"/opt/lampp/htdocs/site/develup/img/liberty-op.svg",
+		"/home/gustavo/Descargas/google.csv",
+		"/opt/lampp/htdocs/hold/A1_site/nosotros.php",
+		"/opt/lampp/htdocs/site/develup/img/tienda-op.svg",
+		"/opt/lampp/htdocs/site/develup/js/animations.js",
+		"/opt/lampp/htdocs/site/develup/img/tienda.svg",
+		"/home/gustavo/Descargas/img/tienda-wireframe.svg",
+		"/opt/lampp/htdocs/site/develup/img/tienda_wireframe.svg",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/function.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/css/slideShow.scss",
+		"/home/gustavo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gustavo/Descargas/img/tienda.svg",
+		"/home/gustavo/.config/sublime-text-2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/SublimeGrunt.sublime-settings",
+		"/opt/lampp/htdocs/site/develup/css/font.css",
+		"/opt/lampp/htdocs/site/develup/js/build/animation.min.js",
+		"/opt/lampp/htdocs/site/develup/ Gruntfile",
+		"/home/gustavo/.config/sublime-text-2/Packages/Language – Spanish/Spanish.dic",
+		"/home/gustavo/.config/sublime-text-2/Packages/Language – Spanish/Spanish.txt",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/transition.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/box-shadow.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/css/estilo.css",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/inline.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/jq.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/JQuery.sublime-snippet",
+		"/media/Datos/Otro Respaldo/gustavo/Gustavo/Mis documentos/Cocina/Salsa Bechamel.txt",
+		"/home/gustavo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/site/develup/css/index.css",
+		"/opt/lampp/htdocs/site/develup/develup.sublime-workspace",
+		"/opt/lampp/htdocs/site/develup/css/stylesheets",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/SASS - Compress.sublime-build",
+		"/opt/lampp/htdocs/site/develup/fonts/develup.svg",
+		"/opt/lampp/htdocs/site/develup/css/slideShow.css",
+		"/usr/lib/ruby/gems/1.8/gems/sass-3.2.14/lib/sass.rb",
+		"/opt/lampp/htdocs/site/develup/css/header.css",
+		"/opt/lampp/htdocs/site/develup/css/prueba.css",
+		"/opt/lampp/htdocs/paulofreire/paulofreire/css/font.css",
+		"/opt/lampp/htdocs/site/develup/fonts/develup/style.css",
+		"/home/gustavo/.config/sublime-text-2/Packages/jQuery/dblclick.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/jQuery/$.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/.project",
+		"/usr/bin/subl",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/javaScript/polaroids.js",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/css/index.css",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/javaScript/slideShow.js",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/archive-habitaciones.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"index.scss",
+			"estilo.scss",
+			"header.scss",
+			"index.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".in",
+			"mean-connect-mongo@0.4.3",
+			"template",
+			"fillOp",
+			"fillOpacity",
+			"$(\"body > header > nav nav\").parent().hover(function(){$(this).addClass(\"hover\"); $(this).find(\"> nav\").width($(this).width()).each(function(){clearTimeout($(this).data(\"time\")); $(this).css(\"margin-top\",0); $(this).removeData('data name'); }) },function(){$(this).removeClass(\"hover\"); var elem = $(this).find(\"> nav\"); elem.data(\"time\",setTimeout(function(){$(elem).removeAttr('style'); },700)); });\n\n// window.rad = function(num){\n// 	return Math.random()*num;\n// }\n\n// // Atributos estandares de los las etiquetas PATH\n\n// var pathWA={fillOpacity:0,stroke:\"#1d312f\"},\n// textWA={fill:\"black\"};\n\n// //Recorre un objeto svg y lo transforma en un Wireframe\n// //Guarda el resto de los atributos en la variable svgAttr\n\n// window.toWireframe = function(svg,hide){\n// 	forEach(svg.children,function(){\n// 		if(/g/.test(this.tagName)){\n// 			toWireframe(this,hide);\n// 		}else{\n// 			if(this.saveSvgAttr)\n// 				this.saveSvgAttr();\n// 			if(\"path\"==this.tagName){\n// 				var length=this.getTotalLength();\n// 				TweenLite.set(this,extend({strokeWidth:this.svgAttr[\"strokeWidth\"]||1},pathWA,hide?{strokeDasharray:length,strokeDashoffset:length}:{}));\n// 			}else if (this.tagName==\"text\") {\n// 				TweenLite.set(this,extend(textWA,hide?{fillOpacity:0}:{}));\n// 			}\n// 		}\n// 	})\n// }\n\n// toWireframe($(\"svg\")[0],true);\n\n// var countries = new TimelineLite({delay:1});\n\n// $(\".world svg > g:not(.store)\").eq(0).each(function(pais) {\n// 	var paths=$(this).find(\"path\");\n// 	paths.each(function(index, el) {\n// 		countries.to($(this),0.3,{strokeDashoffset:0});\n// 	});\n// 	// countries.to($(this).find(\"path\"),2,{strokeDashoffset:0});\n// 	$(this).find(\"path\").each(function(){\n// 		countries.to(this,2,extend(this.svgAttr,{fillOpacity:1}),\"lista-\"+pais);\n// 	});\n// });\n\n// countries.play();\n\n// function draw(svg,once){\n// 	forEach(svg.children,function(){\n// 		if(/g/.test(this.tagName)){\n// 			draw(this);\n// 		}else{\n// 			if(/path/.test(this.tagName)){\n// 				this.css({webkitAnimation:(once?\"lineDraw 4\":\"drawLine 15\")+\"s forwards\"});;\n// 				if(!once)\n// 					delay(15000,function(){\n// 						this.css({webkitAnimation:null})\n// 					},this);\n// 			}\n// 			delay(once?4000:3000,function(){\n// 				toNormalSvg(this);\n// 			},this)\n// 		}\n// 	})\n// 	if(!once){\n// 		delay(11000,function(){\n// 			toWireframe(svg);\n// 		},this);\n// 	}\n// }\n\n// function toNormalSvg(path,animation){\n// 	if(path.setAttribute){\n// 		path.setAttribute(\"class\",\"animate\");\n// 		path.css(path.prev);\n// 	}\n// }\n\n// //toWireframe(document.querySelector('svg'),true);\n\n// function landmarks(){\n// 	var time=15000,i=0;\n// 	$(\".world svg > g:not(.store)\").each(function() {\n// 		delay(time*i++,function(){\n// 			draw(this)\n// 		},this);\n// 	});\n// 	delay(time*i,landmarks);\n// }\n\n// //delay(5000,landmarks);\n\n// window.svgResize = function(svg){\n// 	var def=$(svg).attr(\"width\"),current=$(svg).width(),perc=(current*100/def)/100;\n// 	$(svg).height($(svg).attr(\"height\")*perc);\n// }\n\n// $(window).on('resize', function(e) {\n// 	$(\"svg\").each(function() {\n// 		svgResize(this)\n// 	});\n// }).trigger('resize');\n\n// //draw($(\"svg > g.store\")[0],true);\n",
+			"console",
+			"animation",
+			"alt",
+			"ctrl+alt",
+			"\n",
+			"a{",
+			"a",
+			"+g",
+			"font-fa",
+			"di",
+			"media",
+			"transition",
+			"transitions",
+			"inline",
+			"*display:",
+			"}\n",
+			";\n",
+			"ctrl+p",
+			";\n",
+			"16s",
+			"opacity",
+			"super",
+			"opacity",
+			"logo",
+			"itsAllRelative",
+			"exclude",
+			"/opt/lampp/htdocs/site/develup/",
+			"cmd",
+			"cm",
+			"[",
+			"multi",
+			"section",
+			"#FFFF00",
+			"'Lobster'",
+			"#FFFF69",
+			"#FFFF00",
+			"red",
+			"black",
+			"red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"3s",
+			"$yellow",
+			"darken($yellow, 50)",
+			"darken($yellow, ramdom(50))",
+			"darken($yellow, unquote(ramdom(50)+'%'))",
+			"darken($yellow, 20%)",
+			"darken($yellow, unquote(ramdom(50)+'%'))",
+			"$yellow",
+			"$theFont",
+			"#FFFF00",
+			"#FFFF69",
+			"red",
+			"black"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/opt/lampp/htdocs/Appjs/index.php",
+					"settings":
+					{
+						"buffer_size": 1654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								817
+							]
+						],
+						"settings":
+						{
+							"auto_name": "i",
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/opt/lampp/htdocs/Appjs/js/labApp.js",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/opt/lampp/htdocs/Appjs/css/estilo.scss",
+					"settings":
+					{
+						"buffer_size": 1845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/opt/lampp/htdocs/Appjs/css/_variable.scss",
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"_",
+				"css/_variable.scss"
+			],
+			[
+				"devep",
+				"fonts/develup.svg"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"estilo",
+				"css/estilo.scss"
+			],
+			[
+				"font",
+				"css/font.css"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"in",
+				"/opt/lampp/htdocs/site/develup/css/index.css"
+			],
+			[
+				"anim",
+				"/opt/lampp/htdocs/site/develup/js/animations.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/lampp/htdocs/hold/A1_site/A1_site.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true
+}

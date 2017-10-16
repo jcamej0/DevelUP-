@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="463"
+   width="475.8"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Torii-op.svg">
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.50971922"
+     inkscape:cx="237.89999"
+     inkscape:cy="231.5"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     fill="#000"
+     d="m0,0c71.015,40,404.78,40,475.8,0l-7.1015,20c-63.913,30-397.68,30-461.59,0z"
+     id="path6" />
+  <path
+     stroke-linejoin="miter"
+     d="m19.529,23,5.3261,32.5c131.38,22.5,273.4,22.5,424.32,2.5l5.3261-35c-131.38,25-319.57,25-434.96,0z"
+     stroke="#640000"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#A00"
+     id="path8" />
+  <path
+     stroke-linejoin="miter"
+     d="m92.32,393,21.304-315,24.855,2.5-12.428,315z"
+     stroke="#640000"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#A00"
+     id="path10" />
+  <path
+     stroke-linejoin="miter"
+     d="m110.07,66.75-0.88768,11.25,33.732,2.5,0-11.25z"
+     stroke="#e8c939"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#e8c939"
+     id="path12" />
+  <path
+     d="m92.32,393-3.5507,5-3.5507,65,41.721,0,2.663-62.5-3.5507-5z"
+     fill="#000"
+     id="path14" />
+  <path
+     stroke-linejoin="miter"
+     d="m33.732,108,62.138,2.5,0-7.5,15.978,2.5-2.663,37.5-75.453-7.5z"
+     stroke="#640000"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#A00"
+     id="path16" />
+  <path
+     stroke-linejoin="miter"
+     d="m385.08,393-21.304-315-24.855,2.5,12.428,315z"
+     stroke="#640000"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#A00"
+     id="path18" />
+  <path
+     stroke-linejoin="miter"
+     d="m367.32,66.75,0.88768,11.25-33.732,2.5,0-11.25z"
+     stroke="#e8c939"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#e8c939"
+     id="path20" />
+  <path
+     d="m385.08,393,3.5507,5,3.5507,65-41.721,0-2.663-62.5,3.5507-5z"
+     fill="#000"
+     id="path22" />
+  <path
+     stroke-linejoin="miter"
+     d="m443.66,108-62.138,2.5,0-7.5-15.978,2.5,2.663,37.5,75.453-7.5z"
+     stroke="#640000"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#A00"
+     id="path24" />
+  <path
+     stroke-linejoin="miter"
+     d="m341.58,143-1.7754-37.5-15.091-2.5,0,8.75-71.015,1.25,0-40h-30.004v40l-71.015-1.25v-8.75l-15.091,2.5-1.7754,37.5h205.76z"
+     stroke="#640000"
+     stroke-linecap="butt"
+     stroke-width="0.84270161px"
+     fill="#A00"
+     id="path26" />
+</svg>

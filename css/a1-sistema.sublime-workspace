@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"idSec"
+			],
+			[
+				"pro",
+				"proxy"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"after",
+				"afterCreate"
+			],
+			[
+				"tri",
+				"trigger	trigger"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ke",
+				"keypress	keypress"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"foc",
+				"focusout	.focusout()"
+			],
+			[
+				"lista",
+				"lista_producto"
+			],
+			[
+				"cli",
+				"click	click"
+			],
+			[
+				"fun",
+				"func	func"
+			],
+			[
+				"ta",
+				"TABLE"
+			],
+			[
+				"crea",
+				"CREATE"
+			],
+			[
+				"b",
+				"bs	box-shadow"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"tr",
+				"trigger	trigger"
+			],
+			[
+				"w",
+				"width	.width"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"ei",
+				"eiffel-op.svg"
+			],
+			[
+				"liv",
+				"liberty-op.svg"
+			],
+			[
+				"ba",
+				"balon-op.svg"
+			],
+			[
+				"Co",
+				"Corcovado-op.svg"
+			],
+			[
+				"fu",
+				"Fuji-op.svg"
+			],
+			[
+				"t",
+				"tienda-op.svg"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"tie",
+				"tienda-op.svg"
+			],
+			[
+				"to",
+				"Torii-op.svg"
+			],
+			[
+				"fi",
+				"Fuji-op.svg"
+			],
+			[
+				"co",
+				"Corcovado-op.svg"
+			],
+			[
+				"ti",
+				"tienda-op.svg"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"ob",
+				"Object"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"es",
+				"estilo.scss"
+			],
+			[
+				"he",
+				"header.css"
+			],
+			[
+				"incl",
+				"include	@include"
+			],
+			[
+				"j",
+				"jq	jq"
+			],
+			[
+				"jq",
+				"jQuery.get	jQuery.get"
+			],
+			[
+				"th",
+				"this	jq"
+			],
+			[
+				"thi",
+				"this	$(this)"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"sl",
+				"slideShow.scss"
+			],
+			[
+				"pre",
+				"prueba.scss"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"c",
+				"ctrl"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"remove",
+				"removeData	.removeData()"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"tra",
+				"border-top-left-radius"
+			],
+			[
+				"the_",
+				"the_title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/opt/lampp/htdocs/A1/A1/Sistema/froms/ingreso.php",
+			"settings":
+			{
+				"buffer_size": 9204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/A1/A1/Sistema/js/plugins.jquery.js",
+			"settings":
+			{
+				"buffer_size": 30618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/A1/A1/Sistema/scripts/producto.php",
+			"settings":
+			{
+				"buffer_size": 2450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/A1/A1/Sistema/js/done.plugins.js",
+			"settings":
+			{
+				"buffer_size": 25686,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: mq",
+				"Snippet: mq"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"Snippet: php",
+				"Snippet: <?php … ?>"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/cancelacion.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/js/cancelacion.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/js/done.plugins.js",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/lista.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/recibo.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/paquete.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/sql/triggers.sql",
+		"/opt/lampp/htdocs/A1/A1/Sistema/froms/others.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/js/allDone.plugins.js",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/buscarCliente.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/mysqlConect.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/pago.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/js/plugins.jquery.js",
+		"/opt/lampp/htdocs/A1/A1/Sistema/froms/contrato.php",
+		"/opt/lampp/htdocs/A1/A1/Sistema/scripts/producto.php",
+		"/opt/lampp/htdocs/paulofreire/paulofreire/php/trigger.sql",
+		"/opt/lampp/htdocs/paulofreire/paulofreire/sql/triggerDef.sql",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/site/develup/img/lab-op.svg",
+		"/opt/lampp/htdocs/site/develup/img/round-flask.svg",
+		"/opt/lampp/htdocs/site/develup/img/lab.svg",
+		"/opt/lampp/htdocs/site/v 0.1/index.php",
+		"/opt/lampp/htdocs/site/develup/img/lugar-op.svg",
+		"/home/gustavo/workspace/paulofreire/paulofreire.sql",
+		"/opt/lampp/htdocs/site/develup/css/index.scss",
+		"/opt/lampp/htdocs/site/develup/css/_variable.scss",
+		"/opt/lampp/htdocs/site/develup/Gruntfile.js",
+		"/opt/lampp/htdocs/site/develup/css/build/estilo.css",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/mq.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/keyframe.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/index.php",
+		"/opt/lampp/htdocs/site/develup/img/lugar.svg",
+		"/opt/lampp/htdocs/site/develup/img/opera-opt.svg",
+		"/opt/lampp/htdocs/site/develup/img/eiffel-op.svg",
+		"/opt/lampp/htdocs/site/develup/img/liberty-op.svg",
+		"/home/gustavo/Descargas/google.csv",
+		"/opt/lampp/htdocs/hold/A1_site/nosotros.php",
+		"/opt/lampp/htdocs/site/develup/img/tienda-op.svg",
+		"/opt/lampp/htdocs/site/develup/js/functions.js",
+		"/opt/lampp/htdocs/site/develup/js/animations.js",
+		"/opt/lampp/htdocs/site/develup/img/tienda.svg",
+		"/opt/lampp/htdocs/site/develup/css/estilo.scss",
+		"/home/gustavo/Descargas/img/tienda-wireframe.svg",
+		"/opt/lampp/htdocs/site/develup/img/tienda_wireframe.svg",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/function.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/css/font.scss",
+		"/opt/lampp/htdocs/site/develup/css/slideShow.scss",
+		"/opt/lampp/htdocs/site/develup/css/header.scss",
+		"/home/gustavo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gustavo/Descargas/img/tienda.svg",
+		"/opt/lampp/htdocs/site/develup/package.json",
+		"/opt/lampp/htdocs/site/develup/develup.sublime-project",
+		"/home/gustavo/.config/sublime-text-2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/SublimeGrunt.sublime-settings",
+		"/opt/lampp/htdocs/site/develup/css/font.css",
+		"/opt/lampp/htdocs/site/develup/js/build/animation.min.js",
+		"/opt/lampp/htdocs/site/develup/ Gruntfile",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/data-icon.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/Language – Spanish/Spanish.dic",
+		"/home/gustavo/.config/sublime-text-2/Packages/Language – Spanish/Spanish.txt",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/transition.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/box-shadow.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/css/estilo.css",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/inline.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/jq.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/JQuery.sublime-snippet",
+		"/media/Datos/Otro Respaldo/gustavo/Gustavo/Mis documentos/Cocina/Salsa Bechamel.txt",
+		"/home/gustavo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/site/develup/css/index.css",
+		"/opt/lampp/htdocs/site/develup/develup.sublime-workspace",
+		"/opt/lampp/htdocs/site/develup/css/stylesheets",
+		"/home/gustavo/.config/sublime-text-2/Packages/User/SASS - Compress.sublime-build",
+		"/opt/lampp/htdocs/site/develup/fonts/develup.svg",
+		"/opt/lampp/htdocs/site/develup/css/slideShow.css",
+		"/usr/lib/ruby/gems/1.8/gems/sass-3.2.14/lib/sass.rb",
+		"/opt/lampp/htdocs/site/develup/css/header.css",
+		"/opt/lampp/htdocs/site/develup/css/prueba.css",
+		"/opt/lampp/htdocs/paulofreire/paulofreire/css/font.css",
+		"/opt/lampp/htdocs/site/develup/fonts/develup/style.css",
+		"/home/gustavo/.config/sublime-text-2/Packages/jQuery/dblclick.sublime-snippet",
+		"/home/gustavo/.config/sublime-text-2/Packages/jQuery/$.sublime-snippet",
+		"/opt/lampp/htdocs/site/develup/.project",
+		"/usr/bin/subl",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/javaScript/polaroids.js",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/css/index.css",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/javaScript/slideShow.js",
+		"/opt/lampp/htdocs/DonAguedo/wp-content/themes/boilerplate/archive-habitaciones.php"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"index.scss",
+			"estilo.scss",
+			"header.scss",
+			"index.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trim",
+			"recibo",
+			"add(",
+			"add",
+			"send",
+			"display",
+			"afterCrea",
+			"afterCreate",
+			"factura",
+			"pago",
+			"pagos=",
+			"cuotas=",
+			"cuotas",
+			"Crear",
+			"this.nam",
+			"h1",
+			"title",
+			"lista_pr",
+			"data",
+			"buscar=f",
+			"buscar=",
+			"recibo",
+			"pago",
+			"user",
+			"func",
+			"send",
+			"ingreso=",
+			"ingreso",
+			"clone",
+			"clone}",
+			"clone",
+			"userLogIn",
+			"new contrato",
+			"paquetes=",
+			"paquete",
+			"factura",
+			"data",
+			"imprimir",
+			"ingreso",
+			"new contrato",
+			"console",
+			"animation",
+			"alt",
+			"ctrl+alt",
+			"\n",
+			"a{",
+			"a",
+			"+g",
+			"font-fa",
+			"di",
+			"media",
+			"transition",
+			"transitions",
+			"inline",
+			"*display:",
+			"}\n",
+			";\n",
+			"ctrl+p",
+			";\n",
+			"16s",
+			"opacity",
+			"super",
+			"opacity",
+			"logo",
+			"itsAllRelative",
+			"exclude",
+			"/opt/lampp/htdocs/site/develup/",
+			"cmd",
+			"cm",
+			"[",
+			"multi",
+			"section",
+			"#FFFF00",
+			"'Lobster'",
+			"#FFFF69",
+			"#FFFF00",
+			"red",
+			"black",
+			"red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"3s",
+			"$yellow",
+			"darken($yellow, 50)",
+			"darken($yellow, ramdom(50))",
+			"darken($yellow, unquote(ramdom(50)+'%'))",
+			"darken($yellow, 20%)",
+			"darken($yellow, unquote(ramdom(50)+'%'))",
+			"$yellow",
+			"$theFont",
+			"#FFFF00",
+			"#FFFF69",
+			"red",
+			"black"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/opt/lampp/htdocs/A1/A1/Sistema/froms/ingreso.php",
+					"settings":
+					{
+						"buffer_size": 9204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1845,
+								1845
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/opt/lampp/htdocs/A1/A1/Sistema/js/plugins.jquery.js",
+					"settings":
+					{
+						"buffer_size": 30618,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										3211,
+										3211
+									],
+									[
+										25588,
+										25588
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								10672,
+								10672
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6992.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/opt/lampp/htdocs/A1/A1/Sistema/scripts/producto.php",
+					"settings":
+					{
+						"buffer_size": 2450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/opt/lampp/htdocs/A1/A1/Sistema/js/done.plugins.js",
+					"settings":
+					{
+						"buffer_size": 25686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21865,
+								21758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15218.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"_",
+				"css/_variable.scss"
+			],
+			[
+				"devep",
+				"fonts/develup.svg"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"estilo",
+				"css/estilo.scss"
+			],
+			[
+				"font",
+				"css/font.css"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"in",
+				"/opt/lampp/htdocs/site/develup/css/index.css"
+			],
+			[
+				"anim",
+				"/opt/lampp/htdocs/site/develup/js/animations.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/lampp/htdocs/site/develup/js/Appjs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true
+}

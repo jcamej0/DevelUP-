@@ -1,0 +1,171 @@
+@import "variable";
+
+//Logo
+
+	.logo{
+		text-align: center;
+		font-family:$headerFont;
+		width: 25%;
+
+		> *{
+			@extend .inline;
+		}
+
+		h1{
+			font-size: 3.5em;
+			letter-spacing: .05em;
+			font-weight: bold;
+
+			span{
+				color:$baseColor;
+			}
+		}
+
+		h2{
+			font-size: 1em;
+			font-weight: normal;
+			margin-top: -0.2em;
+			color:$fontColor;
+			font-family: $primaryFont;
+		}
+
+	}
+
+//End Logo
+
+//Nav
+
+	body > header > nav{
+		width: 75%;
+		text-align:right;
+
+		> *{
+			@extend .inline;
+		}
+
+		//link def
+
+		a{
+			color:$fontColor;
+			padding: .5em 1em;
+			background: transparent;
+			border-radius: .3em;
+			@include transition(background 1s,color .5s);
+			cursor:pointer;
+			display:inline-block;
+			.current > a{
+				background: $baseColor;
+				color:white;
+			}
+		}
+
+		//separation
+
+		span{
+			margin:0 .5em;
+		}
+
+		.hover > a{
+			border-radius: .3em .3em 0 0;
+		}
+
+		//hover color
+
+		a:hover,.hover > a{
+			background: $baseColor!important;
+			color:white!important;
+		}
+
+		.current > a{
+			background: $baseColor;
+			color:white;
+		}
+
+		//sub-menu
+
+		span:hover nav{
+			opacity: 1!important;
+		}
+
+		nav{
+			position: absolute;
+			padding: 1em 0 .5em 0;
+			margin-top: -20em;
+			opacity: 0;
+			@include transition(opacity .7s);
+			z-index: 10;
+			background: white;
+			@include shadow(13px 10px 27px -10px rgba(0, 0, 0, 0.3));
+			text-align:center;
+			border-radius: 0 0 .3em .3em;
+
+			a{
+				padding:.5em .2em;
+				min-width: 51%;
+				margin-bottom:.5em;
+			}
+		}
+
+	}
+			
+
+//End Nav
+
+// Media Queries
+
+	@include breakpoint(phone){
+		
+		body > header{
+
+			// Logo y Lema
+
+			.logo, .logo > *{
+
+				width: 100%;
+
+			}
+
+			// Barra de Navegacion y Enlaces
+
+			nav{
+
+				display:none;
+				width: 100%;
+				text-align: center;
+
+				span{
+					width: 100%;
+
+					// Sub Menus
+
+					nav{
+						display:none;
+					}
+
+				}
+
+			}
+
+		}
+
+	}
+
+//Header
+
+	body > header{
+		padding-bottom: .5em;
+		padding-top: .5em;
+		@include shadow(0 4px 20px -3px gray);
+		z-index:1;
+
+		> *{
+			@extend .inline;
+		}
+
+		.expandMenu{
+			display:none;
+		}
+
+	}
+
+//End Header

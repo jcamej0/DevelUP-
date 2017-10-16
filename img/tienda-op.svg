@@ -1,0 +1,51 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="355.71" width="352.01" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<font id="font4332" horiz-origin-x="0" horiz-origin-y="0" horiz-adv-x="1024" vert-origin-x="45" vert-origin-y="90" vert-adv-y="90">
+			<font-face font-family="SVGFont 1" units-per-em="1024"/>
+			<missing-glyph d="M0,0h1000v1024h-1000z"/>
+		</font>
+	</defs>
+	<path d="m331,354.5-310,0.20992v-149.47c2.9159-2.1428,5-5.7365,5-10.737,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,17.5,25,17.5,25,0,0,5.0105,2.0715,8.5904,4.9968,10.732,0.0511,49.755,0.003,99.512,0.003,149.27z" stroke="#FFF" fill="#FFF"/>
+	<path d="m256,227,57.5,0,0,60-57.5,0z" stroke="#b35539" fill="#75c6bd"/>
+	<path d="m256,227,57.5,0,0,60-57.5,0zm-5-5,67.5,0,0,132.5-67.5,0z" fill-rule="evenodd" stroke="#b35539" fill="#b35539"/>
+	<path d="m256,290.85,5,0,0,21.144-5,0z" stroke="#b35539" fill="#453832"/>
+	<path stroke="#FFF" d="m116,21.995,120,0c50,0,50,90,0,90h-120c-55,0-55-90,0-90z" fill="#FFF"/>
+	<path stroke-linejoin="miter" d="m111,129.5,0,30" stroke="#1d312f" stroke-linecap="butt" stroke-dasharray="none" stroke-miterlimit="4" stroke-width="10" fill="none"/>
+	<path stroke-linejoin="round" d="m0.46711,194.5c0,17.5,25,17.5,25,0v-35z" stroke="#b35539" fill="#b35539"/>
+	<path d="m51,194.5c0.5,17.5,25.5,17.5,25,0v-35h-25z" fill="#b35539"/>
+	<path d="m26,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#1d312f" fill="#1d312f"/>
+	<path stroke-linejoin="round" d="m326.4,194.5c0.5,17.5,25.5,17.5,25,0l-25-35z" stroke="#1d312f" fill="#1d312f"/>
+	<path fill="#75c6bd" d="m38.5,229.5,0,95,195,0,0-95z" fill-rule="evenodd"/>
+	<path style="marker-start:none;" fill="#fff9f7" d="m146,324.5-97.5-95-10,0,0,17,80,78z" fill-opacity="0.36567161"/>
+	<path fill="#fff9f7" d="m163.5,324.5-95-95-7.5,0,95,95z" fill-opacity="0.36567161"/>
+	<path fill="#fff9f7" d="m233.5,282,0-10-42.5-42.5-10,0z" fill-opacity="0.36470588"/>
+	<path fill="#fff9f7" d="m233.5,262-32.5-32.5-5,0,37.5,37.5z" fill-opacity="0.36470588"/>
+	<path d="m266,260,18.924-12.5,18.576,12.5" stroke="#42433b" fill="none"/>
+	<text style="word-spacing:0px;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;text-align:start;" font-family="Supermercado" xml:space="preserve" font-size="70.68204498px" line-height="125%" font-stretch="normal" font-variant="normal" y="87.995239" x="103" font-weight="normal" font-style="normal" fill="#000000"><tspan y="87.995239" x="103">Shop</tspan></text>
+	<path d="m116,21.995,120,0c50,0,50,90,0,90h-120c-55,0-55-90,0-90zm-1-18,125,0c75,0,70,126,0,126h-125c-80,0-80-126,0-126z" fill-rule="evenodd" stroke="#1d312f" stroke-dasharray="none" stroke-miterlimit="4" stroke-width="6" fill="#b35539"/>
+	<path stroke-linejoin="miter" d="m241,129.5,0,30" stroke="#1d312f" stroke-linecap="butt" stroke-dasharray="none" stroke-miterlimit="4" stroke-width="10" fill="none"/>
+	<path d="m51,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#b35539" fill="#b35539"/>
+	<path d="m76,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#1d312f" fill="#1d312f"/>
+	<path d="m101,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#b35539" fill="#b35539"/>
+	<path d="m126,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#1d312f" fill="#1d312f"/>
+	<path d="m151,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#b35539" fill="#b35539"/>
+	<path d="m176,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#1d312f" fill="#1d312f"/>
+	<path d="m201,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#b35539" fill="#b35539"/>
+	<path d="m226,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#1d312f" fill="#1d312f"/>
+	<path d="m251,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#b35539" fill="#b35539"/>
+	<path d="m276,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#1d312f" fill="#1d312f"/>
+	<path d="m301,194.5c0,17.5,25,17.5,25,0v-35h-25z" stroke="#b35539" fill="#b35539"/>
+	<path d="m38.5,229.5,0,95,195,0,0-95zm-7.5-7.5,0,110,210,0,0-110z" fill-rule="evenodd" stroke="#b35539" fill="#b35539"/>
+	<path d="m261,259.5,47.5,0,0,22.5-47.5,0z" stroke="#42433b" fill="#42433b"/>
+	<path d="m263.5,262,0,17.5,42.5,0,0-17.5z" stroke="#fffcfa" fill="none"/>
+	<text style="letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;word-spacing:0px;text-align:start;" font-family="Sans" xml:space="preserve" font-size="11.72896481px" line-height="125%" font-stretch="normal" font-variant="normal" y="274.63165" x="266.56415" font-weight="bold" font-style="normal" fill="#ffffff"><tspan y="274.63165" x="266.56415">Open</tspan></text>
+</svg>

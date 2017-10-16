@@ -1,0 +1,58 @@
+
+$baseColor: darken(#D42C2C, 10%);
+
+$fontColor: #616161;
+
+$darkFC: #3a3a3a;
+
+$yellow: #FFFF00;
+
+$headerFont: 'Lobster';
+
+$primaryFont: 'Sniglet';
+
+$develop:true;
+
+@mixin transition($transition...) {
+	-webkit-transition: $transition;
+	-moz-transition: $transition;
+	-ms-transition: $transition;
+	-o-transition: $transition;
+	transition: $transition;
+}
+
+@mixin shadow($shadow...) {
+  -moz-box-shadow: $shadow;
+  -webkit-box-shadow: $shadow;
+  box-shadow: $shadow;
+}
+
+@mixin breakpoint($point) {
+  @if $point == tv {
+    @media (max-width: 1600px) { @content; }
+  }
+  @if $point == pc {
+    @media (max-width: 1250px) { @content; }
+  }
+  @else if $point == tablet {
+    @media (max-width: 800px) { @content; }
+  }
+  @else if $point == phone {
+    @media (max-width: 650px)  { @content; }
+  }
+}
+
+@mixin keyframe($name){
+  @-webkit-keyframes $name{ @content; }
+  @-moz-keyframe $name{ @content; }
+  @-o-keyframe $name{ @content; }
+  @keyframes $name{ @content; }
+}
+
+.inline{
+  display: -moz-inline-stack;
+  display:inline-block;
+  vertical-align: middle;
+  zoom: 1;
+  *display: inline;
+}

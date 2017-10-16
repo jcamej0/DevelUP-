@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="not-preg.svg"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="724"
+   id="namedview7"
+   showgrid="false"
+   inkscape:zoom="6.675088"
+   inkscape:cx="25.976288"
+   inkscape:cy="62.35421"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   d="M 54.386,21.632 C 51.335,17.379 44.855,17.874 41.165,21.48 l 0,0 c 0,0 -7.813,7.627 -9.396,9.188 -1.583,1.56 -1.083,3.936 0.382,4.987 l 11.013,7.893 c 1.15,0.825 2.647,0.788 3.748,0.028 L 35.079,66.9 l 14.331,0 c -0.407,4.646 -0.786,8.98 -0.786,8.98 0,0.002 -1.757,20.096 -1.757,20.096 -0.179,2.037 1.327,3.83 3.362,4.01 2.038,0.178 3.831,-1.328 4.009,-3.363 l 1.758,-20.096 0.842,-9.627 9.221,0 z M 39.116,32.613 45,26.856 47.739,39.04 c -0.206,-0.3 -0.459,-0.574 -0.773,-0.798 z"
+   id="path3"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccccccccccccccccccc" />
+<circle
+   cx="50.569"
+   cy="8.163"
+   r="8.163"
+   id="circle5" />
+</svg>
